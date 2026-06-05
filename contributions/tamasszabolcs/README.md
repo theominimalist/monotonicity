@@ -2,7 +2,7 @@
 Haskó Emma, Lengyel Szabolcs, Nyáry János, Tamás Szabolcs
 
 **Feladat:** 
-Táblán lévő apróbb lemmák leírása, bizonyítása, majd Lean-be formalizálni.
+Táblán lévő apróbb lemmák leírása, bizonyítása, majd Lean-ben formalizálása
 
 **Lemmák:**
 - Supremum of Finite Union
