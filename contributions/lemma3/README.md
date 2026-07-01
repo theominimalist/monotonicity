@@ -1,19 +1,18 @@
 # Contribution: Lemma 3
 
-Group: Fülöp Tamás, Ronyecz Erik
+Group: Fülöp Tamás
 
 Contributor: Fülöp Tamás
 
 Task: If $f$ is strictly monotone, then $f$ is continuous on a subinterval of $I$.
 
 Additions:
-- `StrictlyIncreasingOn`
-- `StrictlyDecreasingOn`
-- `StrictlyMonotoneOn`
-- `injective_of_strictly_monotone_on`
-- `IsInfinite1.image_of_injective`
-- `exists_two_points_in_open_interval`
-- `nonempty_of_isInfinite1`
-- `exists_order_preserving_bijection_interval` TODO
-- `continuous_of_interval_bijection` TODO
 - `strictly_monotone_definable_continuous_on_subinterval`
+  - `construct_local_continuity_witness`
+    - `preimage_of_open_interval`
+    - `exists_finite_between_of_extended_interval`
+- `lt_of_lt_of_lt_finite`
+- `lt_of_finite_lt_of_lt`
+- `StrictlyMonotoneOn`
+  - `StrictlyIncreasingOn`
+  - `StrictlyDecreasingOn`
